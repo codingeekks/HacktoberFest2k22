@@ -1,5 +1,5 @@
 #  Hacktoberfest 2022 Is Awesome🔥
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.micromata.de%2Fblog%2Fhacktoberfest-2022%2F&psig=AOvVaw018yvGSfClPapcdVLOOJan&ust=1665058161077000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODpqJKHyfoCFQAAAAAdAAAAABAI)
+![image](https://www.micromata.de/wp-content/uploads/2022/08/hacktoberfest-2022.jpg)
 
 ## What is Hacktoberfest? :thinking:
 A month-long celebration from October 1st to October 31st presented by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/) collaborated with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open-source developer community.
